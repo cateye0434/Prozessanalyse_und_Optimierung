@@ -1,3 +1,3 @@
 # Prozessanalyse_und_Optimierung
-Verschiedene Notationsformen von Ablauf-organisation und UML-Diagramm-Übung
+Verschiedene Notationsformen von Ablauforganisation und UML-Diagramm-Übung
 -> View raws
